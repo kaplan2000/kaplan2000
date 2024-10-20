@@ -5,6 +5,10 @@
 ### How I Spend my time?
  
    <img src="https://wakatime.com/share/@kaplaninthehome/5ed42c59-fd70-4255-9387-9d3c9cda8dee.svg">
+
+### Languages
+
+   <img src="https://wakatime.com/share/@kaplaninthehome/92569467-26e3-4495-9cab-59446c3a1481.svg">
    
 ### Yes, I know how to use Windows...
 
