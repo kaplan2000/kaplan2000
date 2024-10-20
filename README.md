@@ -4,7 +4,7 @@
 
 ### How I Spend my time?
  
-   <img src="https://wakatime.com/share/@kaplaninthehome/5ed42c59-fd70-4255-9387-9d3c9cda8dee.svg">
+   <img src="https://wakatime.com/share/@kaplaninthehome/13371195-845a-4e55-8ab6-3e60857ff2ff.svg">
 
 ### Languages
 
@@ -12,7 +12,7 @@
    
 ### Yes, I know how to use Windows...
 
-  <img src="https://wakatime.com/share/@kaplaninthehome/ab8a0e3e-76ca-4680-a05a-e9f967d1ccd5.svg">
+  <img src="https://wakatime.com/share/@kaplaninthehome/e958c2e5-6591-4b7d-9f48-300d020984e8.svg">
 
 ### When writing documentation
 
