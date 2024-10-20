@@ -1,16 +1,19 @@
-## Hi there 👋
+# ME DOIN' CODING STUFF
+- Every day i'm solving crime scenes which i created myself. Idk is it good or bad, only time will tell. Feel free to scroll to the bottom. If you find anything interesting, let me know. 
 
-<!--
-**kaplan2000/kaplan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### How I Spend my time?
+ 
+   <img src="https://wakatime.com/share/@kaplaninthehome/5ed42c59-fd70-4255-9387-9d3c9cda8dee.svg">
+   
+### Yes, I know how to use Windows...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://wakatime.com/share/@kaplaninthehome/ab8a0e3e-76ca-4680-a05a-e9f967d1ccd5.svg">
+
+### When writing documentation
+
+```mermaid
+graph LR
+A[START] ---> C(MAGIC)
+C ---> D[END]
+```
